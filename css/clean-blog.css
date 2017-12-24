@@ -40,9 +40,9 @@ blockquote {
   font-style: italic;
 }
 hr.small {
-  max-width: 100px;
-  margin: 15px auto;
-  border-width: 4px;
+  max-width: 360px;
+  margin: 25px auto;
+  border-width: 2px;
   border-color: white;
 }
 .navbar-custom {
@@ -236,7 +236,7 @@ hr.small {
   margin-bottom: 10px;
 }
 .post-preview > a > .post-subtitle {
-  margin: 0;
+
   font-weight: 300;
   margin-bottom: 10px;
 }
